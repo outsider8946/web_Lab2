@@ -24,7 +24,7 @@ echo "\n", 12-0;
 
 $last_month = 1187.23;
 $this_month = 1089.98;
-echo  "\nDifference: $this_month-$last_month";
+echo  "\nDifference:", $this_month-$last_month;
 
 //11
 
